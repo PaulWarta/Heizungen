@@ -1,1 +1,7 @@
-{"Wohnzimmer":{"temp":"19.0"},"Kueche":{"temp":"18.0"},"BadezimmerVorne":{"temp":18},"Schlafzimmer":{"temp":18},"BadezimmerHinten":{"temp":"20.0"}}
+{
+  "Wohnzimmer": { "temp": "19.0" },
+  "Kueche": { "temp": "18.0" },
+  "BadezimmerVorne": { "temp": 18 },
+  "Schlafzimmer": { "temp": 18 },
+  "BadezimmerHinten": { "temp": "20.0" }
+}
